@@ -14,3 +14,5 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36
 http://ooyalahd2-f.akamaihd.net/z/saleslatam_test06@180219/manifest.f4m?hdcore=2.10.3&g=PEKPFNBGBTUV
 #EXTINF:-1 tvg-id= "Teleantioquia"
 livestreamer http://livestream.com/accounts/9427524/events/3496592/
+#EXTINF:-1 tvg-id="Tele Vid"
+livestreamer http://new.livestream.com/accounts/5864544/events/2511887/
